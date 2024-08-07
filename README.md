@@ -1,16 +1,17 @@
-## Hi there 👋
+BEM VINDO AO MEU PERFIL 🫀
 
-<!--
-**luannvalle/luannvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ • Estou estudando o alura 📝
+ 
+ • Estudarei no GitHub para melhor aprendizado
+ 
+ • Irei compartilhar meus projetos realizado aqui
 
-Here are some ideas to get you started:
+ESPERO QUE VOCÊ SE SINTA FELIZ AO VER MEU REPOSITÓRIO 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ • Para manter um bom contato e saudável com minha personalidade, entre em contato
+luan.moraes.souza@escola.pr.gov.br 👥
+
+ • Estudo na escola João Marques da Silveira
+
+![](https://media.tenor.com/_rrC613KIJMAAAAM/the-simpsons-homer-simpson.gif)
+
